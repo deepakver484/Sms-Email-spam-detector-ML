@@ -1,0 +1,14 @@
+Spam messages:
+
+"Congratulations! You've been selected to receive a free vacation to Hawaii. Claim your prize now!"
+"URGENT: Your account has been compromised. Please click on the link to reset your password."
+"You've won the lottery! Claim your prize by responding with your personal information."
+"Limited time offer: Get 50% off your purchase by clicking on the link now!"
+"Make money fast with this easy work-from-home opportunity. No experience necessary!"
+Not spam messages:
+
+"Hello, I wanted to follow up on our meeting from last week. Do you have any updates for me?"
+"Reminder: Your dentist appointment is scheduled for next week at 2 pm. Please let us know if you need to reschedule."
+"Congratulations on your recent promotion! We would love to celebrate with you over lunch this Friday."
+"Thanks for signing up for our newsletter! Here are some tips for staying healthy during flu season."
+"Your recent order has shipped. Here is your tracking number. Please let us know if you have any questions or concerns."
