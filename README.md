@@ -1,1 +1,1 @@
-# Sms-Email-spam-detectror-ML
+# Sms-Email-spam-detector-ML
