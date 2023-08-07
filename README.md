@@ -13,3 +13,11 @@
 * Machine Learning Models: Several machine learning models are implemented and evaluated to predict whether a given message is spam or not. The project includes popular classifiers like Support Vector Machines (SVM), Random Forest, and Naive Bayes, providing a comparative analysis of their performance.
 
 * Streamlit Deployment: The trained machine learning model is deployed using Streamlit, offering a user-friendly web application where users can interact with the spam detector seamlessly.
+
+
+# Tech Stack 
+- Python
+- Pandas
+- Scikit-learn (Sklearn)
+- Natural Language Toolkit (NLTK)
+- Streamlit
