@@ -15,7 +15,7 @@
 * Streamlit Deployment: The trained machine learning model is deployed using Streamlit, offering a user-friendly web application where users can interact with the spam detector seamlessly.
 
 
-# Tech Stack 
+# Tech Stack Used
 - Python
 - Pandas
 - Scikit-learn (Sklearn)
